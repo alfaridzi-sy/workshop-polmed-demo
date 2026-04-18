@@ -8,4 +8,4 @@
 ## Fokus & Pesan
 - **Minat Bidang IT:** Web Development
 - **Target Belajar:** 
-- **Kesan Workshop:** 
+- **Kesan Workshop:** [Tuliskan pesan atau kesan singkat mengikuti sesi hari ini]
